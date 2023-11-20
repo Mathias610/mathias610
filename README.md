@@ -1,5 +1,5 @@
 <p align="center">
-  ![mr_stylised2](https://github.com/Mathias610/mathias610/assets/84347122/f2cf3b3f-e2dc-4e39-a2d0-70d02794f2f3)
+  <img src="https://github.com/Mathias610/mathias610/assets/84347122/f2cf3b3f-e2dc-4e39-a2d0-70d02794f2f3">
 </p>
 
 <h1 align="center">Hi 👋, I'm Mathias</h1>
