@@ -5,8 +5,6 @@
 <h1 align="center">Hi 👋, I'm Mathias</h1>
 <h3 align="center">I'm a software engineering and designer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mathias610&label=Profile%20views&color=0e75b6&style=flat" alt="mathias610" /> </p>
-
 - 🔭 I’m currently working on **my portfolio !**
 
 - 🌱 I’m currently learning **touchdesigner, notch, unreal engine**
