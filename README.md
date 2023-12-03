@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **touchdesigner, notch, unreal engine**
 
-- 👨‍💻 All of my projects are available at [mathias-rogey.com](https://mathias-rogey.com)
+- 👨‍💻 All of my projects are available at <a href="https://mathias-rogey.com">mathias-rogey.com</a>
 
 - 💬 Ask me about **music and art**
 
